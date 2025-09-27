@@ -1,4 +1,4 @@
-# KisaanConnect - Smart Farming App 🌾
+# CropSenseAI - Smart Farming App 🌾
 
 A comprehensive Flutter application designed to help farmers with modern agricultural practices through technology integration.
 
@@ -134,3 +134,4 @@ Just execute `flutter run` and start exploring the comprehensive farming assista
 
 
 🌾 **Happy Farming!** 🚜
+
