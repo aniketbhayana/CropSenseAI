@@ -79,7 +79,16 @@ A comprehensive Flutter application designed to help farmers with modern agricul
    - Fertilizer recommendations
    - AI chatbot for instant farming advice
 
-## Screenshots & Demo 📸
+<img width="436" height="942" alt="image" src="https://github.com/user-attachments/assets/d4706e61-34b0-40d5-9acb-5561b9a21e47" />
+<img width="439" height="940" alt="image" src="https://github.com/user-attachments/assets/1c20a8da-aaa0-4c27-9d41-829cc48e63f1" />
+<img width="442" height="937" alt="image" src="https://github.com/user-attachments/assets/4b723de2-6ad7-4d64-b581-dd1d151308ad" />
+<img width="434" height="935" alt="image" src="https://github.com/user-attachments/assets/ffb4688a-58bc-4f18-b2f6-2d129aff3efe" />
+<img width="442" height="936" alt="image" src="https://github.com/user-attachments/assets/258e9963-6ef3-4a4f-bf13-ed692325c545" />
+<img width="443" height="949" alt="image" src="https://github.com/user-attachments/assets/78abdedf-c73f-4c46-898d-f4cd97a717f1" />
+<img width="427" height="938" alt="image" src="https://github.com/user-attachments/assets/796eb098-3ef3-46eb-a3a6-bf26b4e8728c" />
+
+
+
 
 The app includes:
 - Intuitive multi-language interface
@@ -122,5 +131,6 @@ This is a demonstration app showcasing modern Flutter development practices for 
 
 **Ready to run immediately!** 
 Just execute `flutter run` and start exploring the comprehensive farming assistant.
+
 
 🌾 **Happy Farming!** 🚜
